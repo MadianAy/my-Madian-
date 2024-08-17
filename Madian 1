@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مدين عبد الحفيظ علي علي البحيري - السيرة الذاتية</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #3b5998;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #ccc 1px solid;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .content {
+            padding: 20px;
+            background: #fff;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #3b5998;
+        }
+        .contact {
+            background: #d9534f;
+            color: #fff;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        a {
+            color: #d9534f;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>مدين عبد الحفيظ علي علي البحيري</h1>
+        </div>
+    </header>
+    
+    <div class="container content">
+        <h2>السيرة الذاتية</h2>
+        <p><strong>الاسم:</strong> مدين عبد الحفيظ علي علي البحيري</p>
+        <p><strong>المهنة:</strong> مهندس اتصالات</p>
+        <p><strong>التعليم:</strong> خريج جامعة عدن - كلية الهندسة</p>
+        <p><strong>الخبرة:</strong> عملت كمحاسب في مخابز وأفران حلب الشهباء الآلية في محافظة عدن أثناء دراستي في الجامعة</p>
+        
+        <div class="contact">
+            <p><strong>رقم الجوال:</strong> 00967778685969</p>
+            <p><strong>صفحة الفيسبوك:</strong> <a href="https://www.facebook.com/profile.php?id=100028842892917&mibextid=ZbWKwL" target="_blank">زيارة صفحتي</a></p>
+        </div>
+    </div>
+</body>
+</html>
